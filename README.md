@@ -32,9 +32,9 @@ Evaluate the model using the test dataset and visualize the results (accuracy, c
 
 ## PROGRAM
 
-### Name: HARISA.S
+### Name: ESHWAR T
 
-### Register Number:212224230087
+### Register Number:212223230054
 ```python
 import torch as t
 import torch.nn as nn
